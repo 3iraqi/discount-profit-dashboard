@@ -5,6 +5,8 @@
 
 ## Notes
 
+into a single transaction-level dataframe
+
 > ### Data Granularity
 
 ```plaintext
