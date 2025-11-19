@@ -87,7 +87,7 @@ fig_heat = px.imshow(
 st.plotly_chart(fig_heat)
 # ---- Business Insight Message ----
 st.markdown("""
-### $\to$ Business Insight:
+### $\\to$ Business Insight:
 - The **50% discount** leads to a **massive loss** (-86,458) despite a high order count (982 orders).  
 - Discounts **10%-15%** are profitable and should be prioritized.  
 - Higher discounts (>30%) are generally **not profitable** and should be used cautiously.  
